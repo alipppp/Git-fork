@@ -3,6 +3,3 @@ Makanan favorit
 2. Mie ayam 
 3. Ayam bakar
 
-Minuman favorit
-1. Susu
-2. Es teh
